@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$NUM%F"
+printf "$NUM%.2f"
